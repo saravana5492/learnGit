@@ -14,6 +14,7 @@
     NSString *commitTwo;
     NSString *masterUpdate;
     NSString *branchFive;
+    NSString *sourtceTree;
 }
 
 
