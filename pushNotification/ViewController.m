@@ -15,7 +15,6 @@
     NSString *masterUpdate;
     NSString *branchFive;
     NSString *sourtceTree;
-    NSString *raja;
     //Changes
 }
 
