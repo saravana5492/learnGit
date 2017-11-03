@@ -15,8 +15,7 @@
     NSString *masterUpdate;
     NSString *branchFive;
     NSString *sourtceTree;
-    NSString *CheckFileComp;
-    NSString *CheckFileCompTwo;
+    //Changes
 }
 
 
