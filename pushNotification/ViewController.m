@@ -11,7 +11,6 @@
 @interface ViewController ()
 {
     NSString *commitOne;
-    NSString *commitTwo;
 }
 
 
