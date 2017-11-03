@@ -13,6 +13,7 @@
     NSString *commitOne;
     NSString *commitTwo;
     NSString *masterUpdate;
+    NSString *branchFive;
 }
 
 
