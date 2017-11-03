@@ -14,6 +14,7 @@
     NSString *commitTwo;
     NSString *HelloCommit;
     NSString *mergeCommit;
+    NSString *checkAgain;
 }
 
 
