@@ -12,6 +12,7 @@
 {
     NSString *commitOne;
     NSString *commitTwo;
+    NSString *masterUpdate;
 }
 
 
